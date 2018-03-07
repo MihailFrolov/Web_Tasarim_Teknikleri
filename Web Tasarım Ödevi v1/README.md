@@ -1,4 +1,4 @@
-
+![tasarim](https://user-images.githubusercontent.com/36930580/37107965-d4d52696-2246-11e8-8c4d-d18a2519a7c3.jpg)
 # AÇIKLAMA
 Yapacağım site konusu benim doğduğum şehir olan Cherepovets üzerine olacaktır. Cherepovets hakkında birçok bilgiyi bu sitede vermeyi amaçlamaktayım.
 HEADER

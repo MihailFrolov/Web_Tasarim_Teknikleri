@@ -5,17 +5,17 @@ Bunlara ek olarak düzenlemede kullanılan margin, padding, border, font-size ve
 **Örnek 1: Margin etiketi(0 değere sahip iken)**
 ![marginetiketi1](https://user-images.githubusercontent.com/36930580/37507237-8d0084d2-28fe-11e8-8c29-6136a5c0c3b2.png)
 **Margin etiketi başka değer sahip iken**
-
+![marginetiketi2](https://user-images.githubusercontent.com/36930580/37507443-8dd914b8-28ff-11e8-973d-ef34d7b9c6dc.png)
 Gördüğünüz gibi margin etiketi 0’dan başka değer aldığında sitenin divleri siteye tam oturmamakta ve divlerin altında, üstünde ve yanlarında boşluklar bırakmakta.
 **Örnek 2: Padding etiketi(0 değerine sahip iken)**
-
+![paddingetiketi1](https://user-images.githubusercontent.com/36930580/37507462-a180b084-28ff-11e8-8cd3-a6bb093f5d3e.png)
 **Padding etiketi başka değere sahip iken**
-
+![paddingetiketi2](https://user-images.githubusercontent.com/36930580/37507470-a9b853f6-28ff-11e8-8271-73cdfcc896ed.png)
 Gördüğünüz gibi padding etiketi 0’dan başka bir değer aldığında divler içerisindeki menüler,yazılar ve buton benzeri materyaller sağa doğru bir kayma eğilimi göstermekte.
 **Örnek 3: Position etiketi(relative değerinde iken)**
-
+![positionetiketi](https://user-images.githubusercontent.com/36930580/37507478-b10d6ae2-28ff-11e8-90c0-608ddee02429.png)
 **Position etiketi “relative” değerine sahip değilken**
-
+![positionetiketi2](https://user-images.githubusercontent.com/36930580/37507483-b7afcbba-28ff-11e8-953a-d50ac1aa7e89.png)
 Görüldüğü üzere bu etiket relative olmadığında tam bir kaos çıkmakta. Menülere ve slaytlara bağlanan butonlar ya yok oluyor ya da başka sekmelere doğru kayıyor.
 
 # Divler

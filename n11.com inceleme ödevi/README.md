@@ -18,21 +18,21 @@ Gördüğünüz gibi padding etiketi 0’dan başka bir değer aldığında divl
 ![positionetiketi2](https://user-images.githubusercontent.com/36930580/37507483-b7afcbba-28ff-11e8-953a-d50ac1aa7e89.png)
 Görüldüğü üzere bu etiket relative olmadığında tam bir kaos çıkmakta. Menülere ve slaytlara bağlanan butonlar ya yok oluyor ya da başka sekmelere doğru kayıyor.
 
-# Divler
-**1-)Wrapper:** Bu div, sitenin kapsayıcı divi olup, siteyi sekmeyi kavrayacak şekilde ayarlamakta.
-**2-)HeaderCampaingMainHeadBanner:** Bu div ise header’ın üstünde çıkan kırmızı renkli banner’ın bulunduğu yeri temsil etmektedir.
-**3-)Header:** Bu div, HeaderCampaingMainHeadBanner’ın altında bulunup içinde logoları ve butonları bulundurmaktadır.
-**4-)contentMain :** Bu div, sitenin içeriklerinin bulunduğu kısımdır.
-**5-)Footer:** Bu divde ise site hakkında başka menüler, sitenin sosyal medya hesapları, site sahibi kuruluşlar, ödeme şekilleri ve copyright hakkı bulunmaktadır.
+# Divler<br>
+**1-)Wrapper:** Bu div, sitenin kapsayıcı divi olup, siteyi sekmeyi kavrayacak şekilde ayarlamakta.<br>
+**2-)HeaderCampaingMainHeadBanner:** Bu div ise header’ın üstünde çıkan kırmızı renkli banner’ın bulunduğu yeri temsil etmektedir.<br>
+**3-)Header:** Bu div, HeaderCampaingMainHeadBanner’ın altında bulunup içinde logoları ve butonları bulundurmaktadır.<br>
+**4-)contentMain :** Bu div, sitenin içeriklerinin bulunduğu kısımdır.<br>
+**5-)Footer:** Bu divde ise site hakkında başka menüler, sitenin sosyal medya hesapları, site sahibi kuruluşlar, ödeme şekilleri ve copyright hakkı bulunmaktadır.<br>
 
-# Tagler
--Site içerisindeki divlerin içerikleri için kullanılan bazı etiketler bulunmakta.
--Sitedeki başlıklar için h1, h2, h3, h4, h5 ve h6 etiketleri kullanılmakta.
--Menüler içerisindeki listelemeler için tr, ol, ul gibi etiketler kullanılmakta.
--Sitenin ürünlerine hızlı erişim için yapılan slayt şovu veya reklam çerçeveleri için iframe kullanılmakta.
--Sitenin SEO’su için embed etiketleri kullanılmakta.
--Siteye resim koymak için img etiketi çoğu yerde kullanılmakta.
--Header’a, content’e ve footer’a özel t etiketleri kullanılmakta.
--Sitenin belli başlı yerlerinde scriptler kullanılmakta.(Alert box vs.)
--Sitenin ie9’a uyumlu olması için bazı kodlar bulunmakta.
+# Tagler<br>
+-Site içerisindeki divlerin içerikleri için kullanılan bazı etiketler bulunmakta.<br>
+-Sitedeki başlıklar için h1, h2, h3, h4, h5 ve h6 etiketleri kullanılmakta.<br>
+-Menüler içerisindeki listelemeler için tr, ol, ul gibi etiketler kullanılmakta.<br>
+-Sitenin ürünlerine hızlı erişim için yapılan slayt şovu veya reklam çerçeveleri için iframe kullanılmakta.<br>
+-Sitenin SEO’su için embed etiketleri kullanılmakta.<br>
+-Siteye resim koymak için img etiketi çoğu yerde kullanılmakta.<br>
+-Header’a, content’e ve footer’a özel t etiketleri kullanılmakta.<br>
+-Sitenin belli başlı yerlerinde scriptler kullanılmakta.(Alert box vs.)<br>
+-Sitenin ie9’a uyumlu olması için bazı kodlar bulunmakta.<br>
 
